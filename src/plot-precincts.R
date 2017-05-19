@@ -1,10 +1,9 @@
-# NOTE:  gCentroid is from the 'rgeos' package
 library(rgeos)
 library(rgdal)
 library("RColorBrewer")
 
-projectPath = "E:/git/VotersOKC"
-data = readOGR(paste(projectPath, "/shapefiles", sep=""), "OKC_Joined")
+projectPath = "D:/git/VotersOKC"
+data = readOGR(paste(projectPath, "/shapefiles/OKC_precinct", sep=""), "OKC_precinct")
 data$Precinct = as.numeric(as.character(data$Precinct))
 
 df = data.frame(seq = 1:nrow(data), precinct = data$Precinct)
