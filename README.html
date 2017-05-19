@@ -135,9 +135,13 @@ $(document).ready(function () {
 <li>Using ArcMap (or some other geoprocessing tool), the 4 county files were merged, the incorporated area was filtered down to only Oklahma City, and then the results were intersected, yielding a filed named <a href="./shapefiles/OKC_Joined.shp">OKC_Joined.shp</a>.</li>
 <li>Run <a href="./src/build-precinct-index.R">build-precinct-index.R</a>.</li>
 </ul></li>
-<li>Download data for registered voters and precinct-level voting results
+<li>Download data for registered voters
 <ul>
-<li>To get registered voter data, it must be <a href="./registered-voters/VIRS-packet.pdf">requested</a>. These files were stored in the registered-voter subdirectory</li>
+<li>To get registered voter data, it must be <a href="https://www.ok.gov/elections/documents/VIRS%20packet.pdf">requested</a>. These files were stored in the registered-voter subdirectory</li>
+<li>Registered voter info was loaded into a database and merged into a single table.</li>
+</ul></li>
+<li>Download data for precinct-level voting results
+<ul>
 <li>Precinct-level voting results may be found <a href="https://www.ok.gov/elections/Election_Info/Election_Results/">here</a>. These files were stored in the voting-results subdirectory.</li>
 </ul></li>
 </ol>
