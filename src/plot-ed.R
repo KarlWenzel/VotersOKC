@@ -2,7 +2,7 @@ library(rgeos)
 library(rgdal)
 library(plyr)
 
-projectPath = "E:/git/VotersOKC"
+projectPath = "D:/git/VotersOKC"
 data = readOGR(paste(projectPath, "/shapefiles/OKC_Precincts", sep=""), "OKC_Precincts")
 ed = read.csv(paste(projectPath, "/voting-results/Ed20140304.csv", sep=""))
 
@@ -16,7 +16,8 @@ breaks = 5*(0:17)
 ed$VotePercentInterval = breaks[findInterval(ed$VotePercent, breaks)]
 
 data = merge(data, ed, by="Precinct", all.x=TRUE)
-writeOGR(data, paste(projectPath, "/shapefiles/Vote_Results/Ed20140304.kml", sep=""), "Ed20140304.kml", driver="KML")
+writeOGR(data, paste(projectPath, "/shapefiles/Vote_Results/Ed20140304", sep=""), "Ed20140304", driver="ESRI Shapefile")
+#writeOGR(data, paste(projectPath, "/shapefiles/Vote_Results/Ed20140304.kml", sep=""), "Ed20140304.kml", driver="KML")
 
 
 

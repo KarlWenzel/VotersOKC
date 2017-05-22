@@ -3,7 +3,7 @@ library(rgdal)
 library(raster)
 library(maptools)
 
-projectPath = "E:/git/VotersOKC"
+projectPath = "D:/git/VotersOKC"
 
 # All shapefiles are NAD83
 shpCa = readOGR(paste(projectPath, "/shapefiles/Canadian_precinct", sep=""), "pct2010_017")
