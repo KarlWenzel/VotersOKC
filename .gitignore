@@ -1,7 +1,8 @@
 # My custom stuff
 registered-voters
 voting-results
-
+shapefiles/ACS_2015_5YR_TRACT_40.gdb
+shapefiles/ACS_2015_5YR_BG_40.gdb
 
 # History files
 .Rhistory
