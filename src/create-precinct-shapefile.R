@@ -41,9 +41,11 @@ shp_okc_precincts = intersect(shp_cnty_all4, shp_okc_borders)
 csv_precinct_summary = read.csv(paste(projectPath, "/registered-voters/basic-summary.csv", sep=""))
 shp_okc_precincts = merge(shp_okc_precincts, csv_precinct_summary, by="Precinct", all.x=TRUE)
 
+shp_okc_precincts$PopDensity = shp_okc_precincts$RegisteredVoters / shp_okc_precincts$SHAPE_Area
+
 # rename and reorder some joined properties (intentionally dropping 16th column)
 names(shp_okc_precincts)[15] = "Ward"
-shp_okc_precincts = shp_okc_precincts[,c(1:3,15,11,12,17:25,4:10,13,14)]
+shp_okc_precincts = shp_okc_precincts[,c(1:3,15,11,12,17:26,4:10,13,14)]
 
 writeOGR(shp_okc_precincts, paste(projectPath, "/shapefiles/OKC_Precincts", sep=""), "OKC_Precincts", driver="ESRI Shapefile")
 writeOGR(shp_okc_precincts, paste(projectPath, "/shapefiles/OKC_Precincts/OKC_Precincts.kml", sep=""), "OKC_Precincts", driver="KML")
