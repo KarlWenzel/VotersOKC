@@ -1,0 +1,62 @@
+INSERT INTO [dbo].[OkcVoters]
+(
+	[Precinct]
+	,[LastName]
+	,[FirstName]
+	,[MiddleName]
+	,[Suffix]
+	,[VoterID]
+	,[PolitalAff]
+	,[Status]
+	,[StreetNum]
+	,[StreetDir]
+	,[StreetName]
+	,[StreetType]
+	,[BldgNum]
+	,[City]
+	,[Zip]
+	,[DateOfBirth]
+	,[OriginalRegistration]
+	,[MailStreet1]
+	,[MailStreet2]
+	,[MailCity]
+	,[MailState]
+	,[MailZip]
+	,[Muni]
+	,[MuniSub]
+	,[School]
+	,[SchoolSub]
+	,[TechCenter]
+	,[TechCenterSub]
+	,[CountyComm]
+	,[VoterHist1]
+	,[HistMethod1]
+	,[VoterHist2]
+	,[HistMethod2]
+	,[VoterHist3]
+	,[HistMethod3]
+	,[VoterHist4]
+	,[HistMethod4]
+	,[VoterHist5]
+	,[HistMethod5]
+	,[VoterHist6]
+	,[HistMethod6]
+	,[VoterHist7]
+	,[HistMethod7]
+	,[VoterHist8]
+	,[HistMethod8]
+	,[VoterHist9]
+	,[HistMethod9]
+	,[VoterHist10]
+	,[HistMethod10]
+	,[County]
+)
+(
+ select *, 'Canadian' from CTY09_vr where Muni = 'CITY OF OKLAHOMA CITY AT LARGE'
+ union
+ select *, 'Cleveland' from CTY14_vr where Muni = 'CITY OF OKLAHOMA CITY AT LARGE'
+ union
+ select *, 'Oklahoma' from CTY55_vr where Muni = 'CITY OF OKLAHOMA CITY AT LARGE'
+ union
+ select *, 'Pottawatomie' from CTY63_vr where Muni = 'CITY OF OKLAHOMA CITY AT LARGE'
+)
