@@ -17,7 +17,6 @@
 	<SimpleField name="PercentLibertarian" type="int"></SimpleField>
 	<SimpleField name="IndependentVoters" type="int"></SimpleField>
 	<SimpleField name="PercentIndependent" type="int"></SimpleField>
-	<SimpleField name="PopDensity" type="float"></SimpleField>
 	<SimpleField name="DIST_ID" type="int"></SimpleField>
 	<SimpleField name="DIST_NAME" type="string"></SimpleField>
 	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
@@ -47,7 +46,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">27</SimpleData>
 		<SimpleData name="PercentIndependent">8</SimpleData>
-		<SimpleData name="PopDensity">67919.2287159087</SimpleData>
 		<SimpleData name="DIST_ID">9</SimpleData>
 		<SimpleData name="DIST_NAME">P9</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.304309181085</SimpleData>
@@ -78,7 +76,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">610</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">1475398.13372346</SimpleData>
 		<SimpleData name="DIST_ID">10</SimpleData>
 		<SimpleData name="DIST_NAME">P10</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.247356348626</SimpleData>
@@ -109,7 +106,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">610</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">1475398.13372346</SimpleData>
 		<SimpleData name="DIST_ID">10</SimpleData>
 		<SimpleData name="DIST_NAME">P10</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.247356348626</SimpleData>
@@ -140,7 +136,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">24</SimpleData>
 		<SimpleData name="PercentIndependent">8</SimpleData>
-		<SimpleData name="PopDensity">29047.4136133714</SimpleData>
 		<SimpleData name="DIST_ID">12</SimpleData>
 		<SimpleData name="DIST_NAME">P12</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.476636406058</SimpleData>
@@ -171,7 +166,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">168</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">411503.573939702</SimpleData>
 		<SimpleData name="DIST_ID">15</SimpleData>
 		<SimpleData name="DIST_NAME">P15</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.224749296871</SimpleData>
@@ -202,7 +196,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">115</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">2674848.61490582</SimpleData>
 		<SimpleData name="DIST_ID">22</SimpleData>
 		<SimpleData name="DIST_NAME">P22</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0772743571942</SimpleData>
@@ -233,7 +226,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">381</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">4340292.72274468</SimpleData>
 		<SimpleData name="DIST_ID">24</SimpleData>
 		<SimpleData name="DIST_NAME">P24</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.110441501164</SimpleData>
@@ -264,7 +256,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">381</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">4340292.72274468</SimpleData>
 		<SimpleData name="DIST_ID">24</SimpleData>
 		<SimpleData name="DIST_NAME">P24</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.110441501164</SimpleData>
@@ -295,7 +286,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">167</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">1125685.83464806</SimpleData>
 		<SimpleData name="DIST_ID">25</SimpleData>
 		<SimpleData name="DIST_NAME">P25</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.148712580252</SimpleData>
@@ -326,7 +316,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">301</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">3575844.25603067</SimpleData>
 		<SimpleData name="DIST_ID">26</SimpleData>
 		<SimpleData name="DIST_NAME">P26</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.093605600747</SimpleData>
@@ -357,7 +346,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">428</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">9980973.34199405</SimpleData>
 		<SimpleData name="DIST_ID">27</SimpleData>
 		<SimpleData name="DIST_NAME">P27</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645082053024</SimpleData>
@@ -388,7 +376,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">293</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">3333908.61994111</SimpleData>
 		<SimpleData name="DIST_ID">28</SimpleData>
 		<SimpleData name="DIST_NAME">P28</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.100062977381</SimpleData>
@@ -419,7 +406,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">282</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">1252823.95368726</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.165260098261</SimpleData>
@@ -450,7 +436,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">282</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">1252823.95368726</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.165260098261</SimpleData>
@@ -481,7 +466,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">275</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">4644573.08784234</SimpleData>
 		<SimpleData name="DIST_ID">30</SimpleData>
 		<SimpleData name="DIST_NAME">P30</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0950907215484</SimpleData>
@@ -512,7 +496,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">498</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">5802096.51479145</SimpleData>
 		<SimpleData name="DIST_ID">31</SimpleData>
 		<SimpleData name="DIST_NAME">P31</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.099770408992</SimpleData>
@@ -543,7 +526,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">32</SimpleData>
 		<SimpleData name="PercentIndependent">7</SimpleData>
-		<SimpleData name="PopDensity">48891.2094427813</SimpleData>
 		<SimpleData name="DIST_ID">11</SimpleData>
 		<SimpleData name="DIST_NAME">P11</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.418301507655</SimpleData>
@@ -574,7 +556,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">32</SimpleData>
 		<SimpleData name="PercentIndependent">7</SimpleData>
-		<SimpleData name="PopDensity">48891.2094427813</SimpleData>
 		<SimpleData name="DIST_ID">11</SimpleData>
 		<SimpleData name="DIST_NAME">P11</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.418301507655</SimpleData>
@@ -605,7 +586,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">82</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">197768.547765635</SimpleData>
 		<SimpleData name="DIST_ID">35</SimpleData>
 		<SimpleData name="DIST_NAME">P35</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.302272597407</SimpleData>
@@ -636,7 +616,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">3</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">2194.34129922737</SimpleData>
 		<SimpleData name="DIST_ID">46</SimpleData>
 		<SimpleData name="DIST_NAME">P46</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.508778541516</SimpleData>
@@ -667,7 +646,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">272</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">361410.714436365</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.345490607125</SimpleData>
@@ -698,7 +676,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">272</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">361410.714436365</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.345490607125</SimpleData>
@@ -729,7 +706,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">60</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">152436.303061675</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.278046173117</SimpleData>
@@ -760,7 +736,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">396</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">969404.294132142</SimpleData>
 		<SimpleData name="DIST_ID">32</SimpleData>
 		<SimpleData name="DIST_NAME">P32</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.285861543105</SimpleData>
@@ -791,7 +766,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">17</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">87092.6473611086</SimpleData>
 		<SimpleData name="DIST_ID">38</SimpleData>
 		<SimpleData name="DIST_NAME">P38</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.257741404822</SimpleData>
@@ -822,7 +796,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">401</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">1389001.50318816</SimpleData>
 		<SimpleData name="DIST_ID">23</SimpleData>
 		<SimpleData name="DIST_NAME">P23</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.224248927587</SimpleData>
@@ -853,7 +826,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">265</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">405713.955397607</SimpleData>
 		<SimpleData name="DIST_ID">7</SimpleData>
 		<SimpleData name="DIST_NAME">P7</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.298004783967</SimpleData>
@@ -884,7 +856,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">324</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">4633639.1088998</SimpleData>
 		<SimpleData name="DIST_ID">40</SimpleData>
 		<SimpleData name="DIST_NAME">P40</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0900770790855</SimpleData>
@@ -915,7 +886,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">324</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">4633639.1088998</SimpleData>
 		<SimpleData name="DIST_ID">40</SimpleData>
 		<SimpleData name="DIST_NAME">P40</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0900770790855</SimpleData>
@@ -946,7 +916,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">408</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">10658630.8969589</SimpleData>
 		<SimpleData name="DIST_ID">69</SimpleData>
 		<SimpleData name="DIST_NAME">P69</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0633986521644</SimpleData>
@@ -977,7 +946,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">394</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">10136836.2578576</SimpleData>
 		<SimpleData name="DIST_ID">50</SimpleData>
 		<SimpleData name="DIST_NAME">P50</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0629912497273</SimpleData>
@@ -1008,7 +976,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">241</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">9488564.87777894</SimpleData>
 		<SimpleData name="DIST_ID">4</SimpleData>
 		<SimpleData name="DIST_NAME">P4</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645575423125</SimpleData>
@@ -1039,7 +1006,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">260</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">9411782.27135444</SimpleData>
 		<SimpleData name="DIST_ID">61</SimpleData>
 		<SimpleData name="DIST_NAME">P61</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643028214371</SimpleData>
@@ -1070,7 +1036,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">219</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">6362040.0028379</SimpleData>
 		<SimpleData name="DIST_ID">10</SimpleData>
 		<SimpleData name="DIST_NAME">P10</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0892917529462</SimpleData>
@@ -1101,7 +1066,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">219</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">6362040.0028379</SimpleData>
 		<SimpleData name="DIST_ID">10</SimpleData>
 		<SimpleData name="DIST_NAME">P10</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0892917529462</SimpleData>
@@ -1132,7 +1096,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">317</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">8719206.24121866</SimpleData>
 		<SimpleData name="DIST_ID">5</SimpleData>
 		<SimpleData name="DIST_NAME">P5</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645874836148</SimpleData>
@@ -1163,7 +1126,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">284</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">2738134.11413998</SimpleData>
 		<SimpleData name="DIST_ID">37</SimpleData>
 		<SimpleData name="DIST_NAME">P37</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.099295886553</SimpleData>
@@ -1194,7 +1156,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">24</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">363100.977457218</SimpleData>
 		<SimpleData name="DIST_ID">17</SimpleData>
 		<SimpleData name="DIST_NAME">P17</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0992055710805</SimpleData>
@@ -1225,7 +1186,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">125</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">150485.552875743</SimpleData>
 		<SimpleData name="DIST_ID">87</SimpleData>
 		<SimpleData name="DIST_NAME">P87</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.363814688362</SimpleData>
@@ -1256,7 +1216,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">235</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">398763.487636955</SimpleData>
 		<SimpleData name="DIST_ID">78</SimpleData>
 		<SimpleData name="DIST_NAME">P78</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.275782912892</SimpleData>
@@ -1287,7 +1246,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">341</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">5533459.72386847</SimpleData>
 		<SimpleData name="DIST_ID">20</SimpleData>
 		<SimpleData name="DIST_NAME">P20</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0934043568324</SimpleData>
@@ -1318,7 +1276,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">346</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">1354001.59392919</SimpleData>
 		<SimpleData name="DIST_ID">88</SimpleData>
 		<SimpleData name="DIST_NAME">P88</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.199060372</SimpleData>
@@ -1349,7 +1306,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">346</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">1354001.59392919</SimpleData>
 		<SimpleData name="DIST_ID">88</SimpleData>
 		<SimpleData name="DIST_NAME">P88</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.199060372</SimpleData>
@@ -1380,7 +1336,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">340</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">2294832.48435177</SimpleData>
 		<SimpleData name="DIST_ID">9</SimpleData>
 		<SimpleData name="DIST_NAME">P9</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.165754816478</SimpleData>
@@ -1411,7 +1366,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">410</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">6702921.53182637</SimpleData>
 		<SimpleData name="DIST_ID">43</SimpleData>
 		<SimpleData name="DIST_NAME">P43</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.101371509347</SimpleData>
@@ -1442,7 +1396,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">36</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">139893.294912293</SimpleData>
 		<SimpleData name="DIST_ID">24</SimpleData>
 		<SimpleData name="DIST_NAME">P24</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.164143122427</SimpleData>
@@ -1473,7 +1426,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">89</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">245323.706163012</SimpleData>
 		<SimpleData name="DIST_ID">63</SimpleData>
 		<SimpleData name="DIST_NAME">P63</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.193136305064</SimpleData>
@@ -1504,7 +1456,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">43</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">62789.3189766354</SimpleData>
 		<SimpleData name="DIST_ID">36</SimpleData>
 		<SimpleData name="DIST_NAME">P36</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.351017692817</SimpleData>
@@ -1535,7 +1486,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">263</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">13430281.044353</SimpleData>
 		<SimpleData name="DIST_ID">41</SimpleData>
 		<SimpleData name="DIST_NAME">P41</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0482090095661</SimpleData>
@@ -1566,7 +1516,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">131</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">2765279.02484742</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.114642485094</SimpleData>
@@ -1597,7 +1546,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">309</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">346407.427741117</SimpleData>
 		<SimpleData name="DIST_ID">64</SimpleData>
 		<SimpleData name="DIST_NAME">P64</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.313529755501</SimpleData>
@@ -1628,7 +1576,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">278</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">8552776.05935705</SimpleData>
 		<SimpleData name="DIST_ID">86</SimpleData>
 		<SimpleData name="DIST_NAME">P86</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645741666146</SimpleData>
@@ -1659,7 +1606,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">64</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">63359.2206888358</SimpleData>
 		<SimpleData name="DIST_ID">65</SimpleData>
 		<SimpleData name="DIST_NAME">P65</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.319097568661</SimpleData>
@@ -1690,7 +1636,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">17</SimpleData>
 		<SimpleData name="PercentIndependent">7</SimpleData>
-		<SimpleData name="PopDensity">223228.394412582</SimpleData>
 		<SimpleData name="DIST_ID">72</SimpleData>
 		<SimpleData name="DIST_NAME">P72</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.129840284333</SimpleData>
@@ -1721,7 +1666,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">39</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">357205.516828378</SimpleData>
 		<SimpleData name="DIST_ID">7</SimpleData>
 		<SimpleData name="DIST_NAME">P7</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.129634994764</SimpleData>
@@ -1752,7 +1696,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">272</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">12826405.0264983</SimpleData>
 		<SimpleData name="DIST_ID">12</SimpleData>
 		<SimpleData name="DIST_NAME">P12</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0467469686327</SimpleData>
@@ -1783,7 +1726,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">198</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">10295734.7003138</SimpleData>
 		<SimpleData name="DIST_ID">13</SimpleData>
 		<SimpleData name="DIST_NAME">P13</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0445514751849</SimpleData>
@@ -1814,7 +1756,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">198</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">10295734.7003138</SimpleData>
 		<SimpleData name="DIST_ID">13</SimpleData>
 		<SimpleData name="DIST_NAME">P13</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0445514751849</SimpleData>
@@ -1845,7 +1786,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">135</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">6686100.41776329</SimpleData>
 		<SimpleData name="DIST_ID">14</SimpleData>
 		<SimpleData name="DIST_NAME">P14</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.06166756403</SimpleData>
@@ -1876,7 +1816,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">135</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">6686100.41776329</SimpleData>
 		<SimpleData name="DIST_ID">14</SimpleData>
 		<SimpleData name="DIST_NAME">P14</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.06166756403</SimpleData>
@@ -1907,7 +1846,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">208</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">6694950.24719093</SimpleData>
 		<SimpleData name="DIST_ID">15</SimpleData>
 		<SimpleData name="DIST_NAME">P15</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0530073175981</SimpleData>
@@ -1938,7 +1876,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">118</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">8881579.03645448</SimpleData>
 		<SimpleData name="DIST_ID">16</SimpleData>
 		<SimpleData name="DIST_NAME">P16</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0323222316925</SimpleData>
@@ -1969,7 +1906,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">118</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">8881579.03645448</SimpleData>
 		<SimpleData name="DIST_ID">16</SimpleData>
 		<SimpleData name="DIST_NAME">P16</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0323222316925</SimpleData>
@@ -2000,7 +1936,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">118</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">8881579.03645448</SimpleData>
 		<SimpleData name="DIST_ID">16</SimpleData>
 		<SimpleData name="DIST_NAME">P16</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0323222316925</SimpleData>
@@ -2031,7 +1966,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">261</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">5864918.88926828</SimpleData>
 		<SimpleData name="DIST_ID">17</SimpleData>
 		<SimpleData name="DIST_NAME">P17</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645852243527</SimpleData>
@@ -2062,7 +1996,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">261</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">5864918.88926828</SimpleData>
 		<SimpleData name="DIST_ID">17</SimpleData>
 		<SimpleData name="DIST_NAME">P17</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645852243527</SimpleData>
@@ -2093,7 +2026,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">140</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">7532352.75475912</SimpleData>
 		<SimpleData name="DIST_ID">18</SimpleData>
 		<SimpleData name="DIST_NAME">P18</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.046881936286</SimpleData>
@@ -2124,7 +2056,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">286</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">9775835.1649995</SimpleData>
 		<SimpleData name="DIST_ID">19</SimpleData>
 		<SimpleData name="DIST_NAME">P19</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0555777604677</SimpleData>
@@ -2155,7 +2086,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">286</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">9775835.1649995</SimpleData>
 		<SimpleData name="DIST_ID">19</SimpleData>
 		<SimpleData name="DIST_NAME">P19</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0555777604677</SimpleData>
@@ -2186,7 +2116,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">356</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">9326478.33210145</SimpleData>
 		<SimpleData name="DIST_ID">20</SimpleData>
 		<SimpleData name="DIST_NAME">P20</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.055676378267</SimpleData>
@@ -2217,7 +2146,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">356</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">9326478.33210145</SimpleData>
 		<SimpleData name="DIST_ID">20</SimpleData>
 		<SimpleData name="DIST_NAME">P20</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.055676378267</SimpleData>
@@ -2248,7 +2176,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">377</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">6244867.80043719</SimpleData>
 		<SimpleData name="DIST_ID">21</SimpleData>
 		<SimpleData name="DIST_NAME">P21</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0648269945095</SimpleData>
@@ -2279,7 +2206,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">304</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">9593446.18309878</SimpleData>
 		<SimpleData name="DIST_ID">22</SimpleData>
 		<SimpleData name="DIST_NAME">P22</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0589174360733</SimpleData>
@@ -2310,7 +2236,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">304</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">9593446.18309878</SimpleData>
 		<SimpleData name="DIST_ID">22</SimpleData>
 		<SimpleData name="DIST_NAME">P22</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0589174360733</SimpleData>
@@ -2341,7 +2266,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">304</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">9593446.18309878</SimpleData>
 		<SimpleData name="DIST_ID">22</SimpleData>
 		<SimpleData name="DIST_NAME">P22</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0589174360733</SimpleData>
@@ -2372,7 +2296,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">271</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">7840261.63488899</SimpleData>
 		<SimpleData name="DIST_ID">23</SimpleData>
 		<SimpleData name="DIST_NAME">P23</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0585239589905</SimpleData>
@@ -2403,7 +2326,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">271</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">7840261.63488899</SimpleData>
 		<SimpleData name="DIST_ID">23</SimpleData>
 		<SimpleData name="DIST_NAME">P23</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0585239589905</SimpleData>
@@ -2434,7 +2356,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">288</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">7898430.5502455</SimpleData>
 		<SimpleData name="DIST_ID">24</SimpleData>
 		<SimpleData name="DIST_NAME">P24</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0574084356708</SimpleData>
@@ -2465,7 +2386,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">344</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">5676700.10674347</SimpleData>
 		<SimpleData name="DIST_ID">25</SimpleData>
 		<SimpleData name="DIST_NAME">P25</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0889561588016</SimpleData>
@@ -2496,7 +2416,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">117</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">8553285.22983183</SimpleData>
 		<SimpleData name="DIST_ID">26</SimpleData>
 		<SimpleData name="DIST_NAME">P26</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0389651039641</SimpleData>
@@ -2527,7 +2446,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">117</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">8553285.22983183</SimpleData>
 		<SimpleData name="DIST_ID">26</SimpleData>
 		<SimpleData name="DIST_NAME">P26</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0389651039641</SimpleData>
@@ -2558,7 +2476,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">139</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">8589192.73292598</SimpleData>
 		<SimpleData name="DIST_ID">27</SimpleData>
 		<SimpleData name="DIST_NAME">P27</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0403923260151</SimpleData>
@@ -2589,7 +2506,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">139</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">8589192.73292598</SimpleData>
 		<SimpleData name="DIST_ID">27</SimpleData>
 		<SimpleData name="DIST_NAME">P27</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0403923260151</SimpleData>
@@ -2620,7 +2536,6 @@
 		<SimpleData name="PercentLibertarian">1</SimpleData>
 		<SimpleData name="IndependentVoters">69</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">6802177.37697837</SimpleData>
 		<SimpleData name="DIST_ID">28</SimpleData>
 		<SimpleData name="DIST_NAME">P28</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0306200304192</SimpleData>
@@ -2651,7 +2566,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">398</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">10432295.5605138</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0684076858043</SimpleData>
@@ -2682,7 +2596,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">398</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">10432295.5605138</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0684076858043</SimpleData>
@@ -2713,7 +2626,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">269</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">8806240.61519676</SimpleData>
 		<SimpleData name="DIST_ID">30</SimpleData>
 		<SimpleData name="DIST_NAME">P30</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0583893428212</SimpleData>
@@ -2744,7 +2656,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">267</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">9696199.37979262</SimpleData>
 		<SimpleData name="DIST_ID">31</SimpleData>
 		<SimpleData name="DIST_NAME">P31</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0498717883386</SimpleData>
@@ -2775,7 +2686,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">267</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">9696199.37979262</SimpleData>
 		<SimpleData name="DIST_ID">31</SimpleData>
 		<SimpleData name="DIST_NAME">P31</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0498717883386</SimpleData>
@@ -2806,7 +2716,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">322</SimpleData>
 		<SimpleData name="PercentIndependent">29</SimpleData>
-		<SimpleData name="PopDensity">5330608.40127258</SimpleData>
 		<SimpleData name="DIST_ID">32</SimpleData>
 		<SimpleData name="DIST_NAME">P32</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0665210205717</SimpleData>
@@ -2837,7 +2746,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">394</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">8554221.47002306</SimpleData>
 		<SimpleData name="DIST_ID">34</SimpleData>
 		<SimpleData name="DIST_NAME">P34</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.067657370785</SimpleData>
@@ -2868,7 +2776,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">255</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">8718072.65551942</SimpleData>
 		<SimpleData name="DIST_ID">35</SimpleData>
 		<SimpleData name="DIST_NAME">P35</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0512037618965</SimpleData>
@@ -2899,7 +2806,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">251</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">8508294.05126281</SimpleData>
 		<SimpleData name="DIST_ID">36</SimpleData>
 		<SimpleData name="DIST_NAME">P36</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0519062200829</SimpleData>
@@ -2930,7 +2836,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">343</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">5691850.71289089</SimpleData>
 		<SimpleData name="DIST_ID">33</SimpleData>
 		<SimpleData name="DIST_NAME">P33</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.09967874039</SimpleData>
@@ -2961,7 +2866,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">307</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">7263575.76060448</SimpleData>
 		<SimpleData name="DIST_ID">37</SimpleData>
 		<SimpleData name="DIST_NAME">P37</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0561901933066</SimpleData>
@@ -2992,7 +2896,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">307</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">7263575.76060448</SimpleData>
 		<SimpleData name="DIST_ID">37</SimpleData>
 		<SimpleData name="DIST_NAME">P37</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0561901933066</SimpleData>
@@ -3023,7 +2926,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">178</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">12468331.9921079</SimpleData>
 		<SimpleData name="DIST_ID">38</SimpleData>
 		<SimpleData name="DIST_NAME">P38</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0365975629382</SimpleData>
@@ -3054,7 +2956,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">178</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">12468331.9921079</SimpleData>
 		<SimpleData name="DIST_ID">38</SimpleData>
 		<SimpleData name="DIST_NAME">P38</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0365975629382</SimpleData>
@@ -3085,7 +2986,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">294</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">7383882.52285484</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0906610243738</SimpleData>
@@ -3116,7 +3016,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">294</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">7383882.52285484</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0906610243738</SimpleData>
@@ -3147,7 +3046,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">328</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">4636763.52201165</SimpleData>
 		<SimpleData name="DIST_ID">40</SimpleData>
 		<SimpleData name="DIST_NAME">P40</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0821239573102</SimpleData>
@@ -3178,7 +3076,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">328</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">4636763.52201165</SimpleData>
 		<SimpleData name="DIST_ID">40</SimpleData>
 		<SimpleData name="DIST_NAME">P40</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0821239573102</SimpleData>
@@ -3209,7 +3106,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">30</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">7879706.6117156</SimpleData>
 		<SimpleData name="DIST_ID">41</SimpleData>
 		<SimpleData name="DIST_NAME">P41</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0350664219158</SimpleData>
@@ -3240,7 +3136,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">22</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">483115.03950418</SimpleData>
 		<SimpleData name="DIST_ID">42</SimpleData>
 		<SimpleData name="DIST_NAME">P42</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0790868683502</SimpleData>
@@ -3271,7 +3166,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">159</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">1096812.25534303</SimpleData>
 		<SimpleData name="DIST_ID">43</SimpleData>
 		<SimpleData name="DIST_NAME">P43</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.137460831809</SimpleData>
@@ -3302,7 +3196,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">159</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">1096812.25534303</SimpleData>
 		<SimpleData name="DIST_ID">43</SimpleData>
 		<SimpleData name="DIST_NAME">P43</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.137460831809</SimpleData>
@@ -3333,7 +3226,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">176</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">9536332.74994973</SimpleData>
 		<SimpleData name="DIST_ID">44</SimpleData>
 		<SimpleData name="DIST_NAME">P44</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0478927782114</SimpleData>
@@ -3364,7 +3256,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">176</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">9536332.74994973</SimpleData>
 		<SimpleData name="DIST_ID">44</SimpleData>
 		<SimpleData name="DIST_NAME">P44</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0478927782114</SimpleData>
@@ -3395,7 +3286,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">265</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">10499316.7761669</SimpleData>
 		<SimpleData name="DIST_ID">45</SimpleData>
 		<SimpleData name="DIST_NAME">P45</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.046374772192</SimpleData>
@@ -3426,7 +3316,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">515</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">10652143.3665801</SimpleData>
 		<SimpleData name="DIST_ID">46</SimpleData>
 		<SimpleData name="DIST_NAME">P46</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0617345444138</SimpleData>
@@ -3457,7 +3346,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">515</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">10652143.3665801</SimpleData>
 		<SimpleData name="DIST_ID">46</SimpleData>
 		<SimpleData name="DIST_NAME">P46</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0617345444138</SimpleData>
@@ -3488,7 +3376,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">389</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">9935309.45693848</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0677525573804</SimpleData>
@@ -3519,7 +3406,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">389</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">9935309.45693848</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0677525573804</SimpleData>
@@ -3550,7 +3436,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">165</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">3137477.75595435</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0891029108574</SimpleData>
@@ -3581,7 +3466,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">165</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">3137477.75595435</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0891029108574</SimpleData>
@@ -3612,7 +3496,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">165</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">3137477.75595435</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0891029108574</SimpleData>
@@ -3643,7 +3526,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">64</SimpleData>
 		<SimpleData name="PercentIndependent">6</SimpleData>
-		<SimpleData name="PopDensity">9117790.3092893</SimpleData>
 		<SimpleData name="DIST_ID">50</SimpleData>
 		<SimpleData name="DIST_NAME">P50</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0465972584928</SimpleData>
@@ -3674,7 +3556,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">1</SimpleData>
 		<SimpleData name="PercentIndependent">33</SimpleData>
-		<SimpleData name="PopDensity">14373.9893692993</SimpleData>
 		<SimpleData name="DIST_ID">52</SimpleData>
 		<SimpleData name="DIST_NAME">P52</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0737463619905</SimpleData>
@@ -3705,7 +3586,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">108</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">458442.638058284</SimpleData>
 		<SimpleData name="DIST_ID">53</SimpleData>
 		<SimpleData name="DIST_NAME">P53</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.149224671652</SimpleData>
@@ -3736,7 +3616,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">108</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">458442.638058284</SimpleData>
 		<SimpleData name="DIST_ID">53</SimpleData>
 		<SimpleData name="DIST_NAME">P53</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.149224671652</SimpleData>
@@ -3767,7 +3646,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">187</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">1209879.49487515</SimpleData>
 		<SimpleData name="DIST_ID">54</SimpleData>
 		<SimpleData name="DIST_NAME">P54</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.170706108546</SimpleData>
@@ -3798,7 +3676,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">42</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">441788.541059906</SimpleData>
 		<SimpleData name="DIST_ID">55</SimpleData>
 		<SimpleData name="DIST_NAME">P55</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.118141964933</SimpleData>
@@ -3829,7 +3706,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">119</SimpleData>
 		<SimpleData name="PercentIndependent">8</SimpleData>
-		<SimpleData name="PopDensity">1092655.06612904</SimpleData>
 		<SimpleData name="DIST_ID">56</SimpleData>
 		<SimpleData name="DIST_NAME">P56</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.215418120138</SimpleData>
@@ -3860,7 +3736,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">167</SimpleData>
 		<SimpleData name="PercentIndependent">8</SimpleData>
-		<SimpleData name="PopDensity">3116117.27456868</SimpleData>
 		<SimpleData name="DIST_ID">57</SimpleData>
 		<SimpleData name="DIST_NAME">P57</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.119976453881</SimpleData>
@@ -3891,7 +3766,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">160</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">3117237.80797533</SimpleData>
 		<SimpleData name="DIST_ID">58</SimpleData>
 		<SimpleData name="DIST_NAME">P58</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0996778339228</SimpleData>
@@ -3922,7 +3796,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">126</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">7583521.07654746</SimpleData>
 		<SimpleData name="DIST_ID">59</SimpleData>
 		<SimpleData name="DIST_NAME">P59</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0624776209358</SimpleData>
@@ -3953,7 +3826,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">147</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">3895488.73867621</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0990596511175</SimpleData>
@@ -3984,7 +3856,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">43</SimpleData>
 		<SimpleData name="PercentIndependent">8</SimpleData>
-		<SimpleData name="PopDensity">320507.885583615</SimpleData>
 		<SimpleData name="DIST_ID">61</SimpleData>
 		<SimpleData name="DIST_NAME">P61</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.163849082396</SimpleData>
@@ -4015,7 +3886,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">137</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">1839466.53724762</SimpleData>
 		<SimpleData name="DIST_ID">62</SimpleData>
 		<SimpleData name="DIST_NAME">P62</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.127892602842</SimpleData>
@@ -4046,7 +3916,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">278</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">2572374.33144562</SimpleData>
 		<SimpleData name="DIST_ID">51</SimpleData>
 		<SimpleData name="DIST_NAME">P51</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.116622631978</SimpleData>
@@ -4077,7 +3946,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">278</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">2572374.33144562</SimpleData>
 		<SimpleData name="DIST_ID">51</SimpleData>
 		<SimpleData name="DIST_NAME">P51</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.116622631978</SimpleData>
@@ -4108,7 +3976,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">40</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">96677.9811058151</SimpleData>
 		<SimpleData name="DIST_ID">78</SimpleData>
 		<SimpleData name="DIST_NAME">P78</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.231503891837</SimpleData>
@@ -4139,7 +4006,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">302</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">557372.205023392</SimpleData>
 		<SimpleData name="DIST_ID">77</SimpleData>
 		<SimpleData name="DIST_NAME">P77</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.274510629398</SimpleData>
@@ -4170,7 +4036,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">24</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">94472.4802288889</SimpleData>
 		<SimpleData name="DIST_ID">79</SimpleData>
 		<SimpleData name="DIST_NAME">P79</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.19368581985</SimpleData>
@@ -4201,7 +4066,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">20</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">12700.5095013572</SimpleData>
 		<SimpleData name="DIST_ID">81</SimpleData>
 		<SimpleData name="DIST_NAME">P81</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.443936659588</SimpleData>
@@ -4232,7 +4096,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">127</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">488394.452266979</SimpleData>
 		<SimpleData name="DIST_ID">83</SimpleData>
 		<SimpleData name="DIST_NAME">P83</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.22751876831</SimpleData>
@@ -4263,7 +4126,6 @@
 		<SimpleData name="PercentLibertarian">1</SimpleData>
 		<SimpleData name="IndependentVoters">30</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">42818.8805691013</SimpleData>
 		<SimpleData name="DIST_ID">82</SimpleData>
 		<SimpleData name="DIST_NAME">P82</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.28949067623</SimpleData>
@@ -4294,7 +4156,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">2</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">12314.2439780584</SimpleData>
 		<SimpleData name="DIST_ID">75</SimpleData>
 		<SimpleData name="DIST_NAME">P75</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.118049605314</SimpleData>
@@ -4325,7 +4186,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">36</SimpleData>
 		<SimpleData name="PercentIndependent">7</SimpleData>
-		<SimpleData name="PopDensity">494166.140056424</SimpleData>
 		<SimpleData name="DIST_ID">76</SimpleData>
 		<SimpleData name="DIST_NAME">P76</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.18687526564</SimpleData>
@@ -4356,7 +4216,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">75</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">108741.579882942</SimpleData>
 		<SimpleData name="DIST_ID">80</SimpleData>
 		<SimpleData name="DIST_NAME">P80</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.444800758058</SimpleData>
@@ -4387,7 +4246,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">203</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">1752762.11299819</SimpleData>
 		<SimpleData name="DIST_ID">10</SimpleData>
 		<SimpleData name="DIST_NAME">P10</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.12200448574</SimpleData>
@@ -4418,7 +4276,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">74</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">2134363.36074848</SimpleData>
 		<SimpleData name="DIST_ID">12</SimpleData>
 		<SimpleData name="DIST_NAME">P12</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0807777244459</SimpleData>
@@ -4449,7 +4306,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">413</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">4816291.99886725</SimpleData>
 		<SimpleData name="DIST_ID">13</SimpleData>
 		<SimpleData name="DIST_NAME">P13</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.123922945564</SimpleData>
@@ -4480,7 +4336,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">413</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">4816291.99886725</SimpleData>
 		<SimpleData name="DIST_ID">13</SimpleData>
 		<SimpleData name="DIST_NAME">P13</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.123922945564</SimpleData>
@@ -4511,7 +4366,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">181</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">5056555.7458158</SimpleData>
 		<SimpleData name="DIST_ID">14</SimpleData>
 		<SimpleData name="DIST_NAME">P14</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0879701229032</SimpleData>
@@ -4542,7 +4396,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">18</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">993105.681907521</SimpleData>
 		<SimpleData name="DIST_ID">1</SimpleData>
 		<SimpleData name="DIST_NAME">P1</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0497621256515</SimpleData>
@@ -4573,7 +4426,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">73</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">3188858.90875757</SimpleData>
 		<SimpleData name="DIST_ID">18</SimpleData>
 		<SimpleData name="DIST_NAME">P18</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0640248572186</SimpleData>
@@ -4604,7 +4456,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">136</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">2453085.54461043</SimpleData>
 		<SimpleData name="DIST_ID">19</SimpleData>
 		<SimpleData name="DIST_NAME">P19</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643365222392</SimpleData>
@@ -4635,7 +4486,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">136</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">2453085.54461043</SimpleData>
 		<SimpleData name="DIST_ID">19</SimpleData>
 		<SimpleData name="DIST_NAME">P19</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643365222392</SimpleData>
@@ -4666,7 +4516,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">400</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">11379254.5658632</SimpleData>
 		<SimpleData name="DIST_ID">20</SimpleData>
 		<SimpleData name="DIST_NAME">P20</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0626759798484</SimpleData>
@@ -4697,7 +4546,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">36</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">3036211.35639637</SimpleData>
 		<SimpleData name="DIST_ID">21</SimpleData>
 		<SimpleData name="DIST_NAME">P21</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0523475013331</SimpleData>
@@ -4728,7 +4576,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">9</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">604523.13137349</SimpleData>
 		<SimpleData name="DIST_ID">23</SimpleData>
 		<SimpleData name="DIST_NAME">P23</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0639557381343</SimpleData>
@@ -4759,7 +4606,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">105</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">4727285.41611711</SimpleData>
 		<SimpleData name="DIST_ID">24</SimpleData>
 		<SimpleData name="DIST_NAME">P24</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0551640668149</SimpleData>
@@ -4790,7 +4636,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">223</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">5581499.97203154</SimpleData>
 		<SimpleData name="DIST_ID">25</SimpleData>
 		<SimpleData name="DIST_NAME">P25</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0646291657098</SimpleData>
@@ -4821,7 +4666,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">263</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">8162366.05362821</SimpleData>
 		<SimpleData name="DIST_ID">30</SimpleData>
 		<SimpleData name="DIST_NAME">P30</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0665133186991</SimpleData>
@@ -4852,7 +4696,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">263</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">8162366.05362821</SimpleData>
 		<SimpleData name="DIST_ID">30</SimpleData>
 		<SimpleData name="DIST_NAME">P30</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0665133186991</SimpleData>
@@ -4883,7 +4726,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">263</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">8162366.05362821</SimpleData>
 		<SimpleData name="DIST_ID">30</SimpleData>
 		<SimpleData name="DIST_NAME">P30</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0665133186991</SimpleData>
@@ -4914,7 +4756,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">163</SimpleData>
 		<SimpleData name="PercentIndependent">29</SimpleData>
-		<SimpleData name="PopDensity">3176578.24191368</SimpleData>
 		<SimpleData name="DIST_ID">31</SimpleData>
 		<SimpleData name="DIST_NAME">P31</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0680803338258</SimpleData>
@@ -4945,7 +4786,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">281</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">474461.345457504</SimpleData>
 		<SimpleData name="DIST_ID">32</SimpleData>
 		<SimpleData name="DIST_NAME">P32</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.204771160369</SimpleData>
@@ -4976,7 +4816,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">281</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">474461.345457504</SimpleData>
 		<SimpleData name="DIST_ID">32</SimpleData>
 		<SimpleData name="DIST_NAME">P32</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.204771160369</SimpleData>
@@ -5007,7 +4846,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">95</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">296911.351615889</SimpleData>
 		<SimpleData name="DIST_ID">33</SimpleData>
 		<SimpleData name="DIST_NAME">P33</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.209178160421</SimpleData>
@@ -5038,7 +4876,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">95</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">296911.351615889</SimpleData>
 		<SimpleData name="DIST_ID">33</SimpleData>
 		<SimpleData name="DIST_NAME">P33</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.209178160421</SimpleData>
@@ -5069,7 +4906,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">295</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">422988.98402775</SimpleData>
 		<SimpleData name="DIST_ID">34</SimpleData>
 		<SimpleData name="DIST_NAME">P34</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.276478549372</SimpleData>
@@ -5100,7 +4936,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">266</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">2053760.06843879</SimpleData>
 		<SimpleData name="DIST_ID">35</SimpleData>
 		<SimpleData name="DIST_NAME">P35</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0885712014948</SimpleData>
@@ -5131,7 +4966,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">266</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">2053760.06843879</SimpleData>
 		<SimpleData name="DIST_ID">35</SimpleData>
 		<SimpleData name="DIST_NAME">P35</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0885712014948</SimpleData>
@@ -5162,7 +4996,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">479</SimpleData>
 		<SimpleData name="PercentIndependent">30</SimpleData>
-		<SimpleData name="PopDensity">2914529.41620755</SimpleData>
 		<SimpleData name="DIST_ID">36</SimpleData>
 		<SimpleData name="DIST_NAME">P36</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.104776410223</SimpleData>
@@ -5193,7 +5026,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">479</SimpleData>
 		<SimpleData name="PercentIndependent">30</SimpleData>
-		<SimpleData name="PopDensity">2914529.41620755</SimpleData>
 		<SimpleData name="DIST_ID">36</SimpleData>
 		<SimpleData name="DIST_NAME">P36</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.104776410223</SimpleData>
@@ -5224,7 +5056,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">39</SimpleData>
 		<SimpleData name="PercentIndependent">44</SimpleData>
-		<SimpleData name="PopDensity">643726.182085544</SimpleData>
 		<SimpleData name="DIST_ID">37</SimpleData>
 		<SimpleData name="DIST_NAME">P37</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0545325481758</SimpleData>
@@ -5255,7 +5086,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">300</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">2675526.61793627</SimpleData>
 		<SimpleData name="DIST_ID">40</SimpleData>
 		<SimpleData name="DIST_NAME">P40</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0921227728236</SimpleData>
@@ -5286,7 +5116,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">0</SimpleData>
 		<SimpleData name="PercentIndependent">0</SimpleData>
-		<SimpleData name="PopDensity">21867.3212742124</SimpleData>
 		<SimpleData name="DIST_ID">41</SimpleData>
 		<SimpleData name="DIST_NAME">P41</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0649868529759</SimpleData>
@@ -5317,7 +5146,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">498</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">2559191.66465952</SimpleData>
 		<SimpleData name="DIST_ID">42</SimpleData>
 		<SimpleData name="DIST_NAME">P42</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.115406605527</SimpleData>
@@ -5348,7 +5176,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">498</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">2559191.66465952</SimpleData>
 		<SimpleData name="DIST_ID">42</SimpleData>
 		<SimpleData name="DIST_NAME">P42</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.115406605527</SimpleData>
@@ -5379,7 +5206,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">291</SimpleData>
 		<SimpleData name="PercentIndependent">26</SimpleData>
-		<SimpleData name="PopDensity">4765128.87796907</SimpleData>
 		<SimpleData name="DIST_ID">43</SimpleData>
 		<SimpleData name="DIST_NAME">P43</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0778207114079</SimpleData>
@@ -5410,7 +5236,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">291</SimpleData>
 		<SimpleData name="PercentIndependent">26</SimpleData>
-		<SimpleData name="PopDensity">4765128.87796907</SimpleData>
 		<SimpleData name="DIST_ID">43</SimpleData>
 		<SimpleData name="DIST_NAME">P43</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0778207114079</SimpleData>
@@ -5441,7 +5266,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">175</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">7009217.49179649</SimpleData>
 		<SimpleData name="DIST_ID">44</SimpleData>
 		<SimpleData name="DIST_NAME">P44</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0496112744714</SimpleData>
@@ -5472,7 +5296,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">175</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">7009217.49179649</SimpleData>
 		<SimpleData name="DIST_ID">44</SimpleData>
 		<SimpleData name="DIST_NAME">P44</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0496112744714</SimpleData>
@@ -5503,7 +5326,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">288</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">5055013.69379149</SimpleData>
 		<SimpleData name="DIST_ID">45</SimpleData>
 		<SimpleData name="DIST_NAME">P45</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0687893710614</SimpleData>
@@ -5534,7 +5356,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">288</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">5055013.69379149</SimpleData>
 		<SimpleData name="DIST_ID">45</SimpleData>
 		<SimpleData name="DIST_NAME">P45</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0687893710614</SimpleData>
@@ -5565,7 +5386,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">47</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">7208068.76692252</SimpleData>
 		<SimpleData name="DIST_ID">46</SimpleData>
 		<SimpleData name="DIST_NAME">P46</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0252040741872</SimpleData>
@@ -5596,7 +5416,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">330</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">7155210.65190592</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643699825266</SimpleData>
@@ -5627,7 +5446,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">330</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">7155210.65190592</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643699825266</SimpleData>
@@ -5658,7 +5476,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">330</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">7155210.65190592</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643699825266</SimpleData>
@@ -5689,7 +5506,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">217</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">10573500.4548249</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0391988145103</SimpleData>
@@ -5720,7 +5536,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">217</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">10573500.4548249</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0391988145103</SimpleData>
@@ -5751,7 +5566,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">217</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">10573500.4548249</SimpleData>
 		<SimpleData name="DIST_ID">48</SimpleData>
 		<SimpleData name="DIST_NAME">P48</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0391988145103</SimpleData>
@@ -5782,7 +5596,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">281</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">5856747.81973877</SimpleData>
 		<SimpleData name="DIST_ID">49</SimpleData>
 		<SimpleData name="DIST_NAME">P49</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0681699372699</SimpleData>
@@ -5813,7 +5626,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">280</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">7173621.74568262</SimpleData>
 		<SimpleData name="DIST_ID">51</SimpleData>
 		<SimpleData name="DIST_NAME">P51</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0582453165555</SimpleData>
@@ -5844,7 +5656,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">280</SimpleData>
 		<SimpleData name="PercentIndependent">24</SimpleData>
-		<SimpleData name="PopDensity">7173621.74568262</SimpleData>
 		<SimpleData name="DIST_ID">51</SimpleData>
 		<SimpleData name="DIST_NAME">P51</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0582453165555</SimpleData>
@@ -5875,7 +5686,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">243</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">12252813.0200834</SimpleData>
 		<SimpleData name="DIST_ID">52</SimpleData>
 		<SimpleData name="DIST_NAME">P52</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0391245405716</SimpleData>
@@ -5906,7 +5716,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">243</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">12252813.0200834</SimpleData>
 		<SimpleData name="DIST_ID">52</SimpleData>
 		<SimpleData name="DIST_NAME">P52</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0391245405716</SimpleData>
@@ -5937,7 +5746,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">311</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">11508921.059061</SimpleData>
 		<SimpleData name="DIST_ID">53</SimpleData>
 		<SimpleData name="DIST_NAME">P53</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0511205496823</SimpleData>
@@ -5968,7 +5776,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">311</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">11508921.059061</SimpleData>
 		<SimpleData name="DIST_ID">53</SimpleData>
 		<SimpleData name="DIST_NAME">P53</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0511205496823</SimpleData>
@@ -5999,7 +5806,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">225</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">9829769.41208022</SimpleData>
 		<SimpleData name="DIST_ID">54</SimpleData>
 		<SimpleData name="DIST_NAME">P54</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0512851462818</SimpleData>
@@ -6030,7 +5836,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">230</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">8702398.93158238</SimpleData>
 		<SimpleData name="DIST_ID">55</SimpleData>
 		<SimpleData name="DIST_NAME">P55</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.071907893094</SimpleData>
@@ -6061,7 +5866,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">282</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">2767921.25709518</SimpleData>
 		<SimpleData name="DIST_ID">56</SimpleData>
 		<SimpleData name="DIST_NAME">P56</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.128772514097</SimpleData>
@@ -6092,7 +5896,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">282</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">2767921.25709518</SimpleData>
 		<SimpleData name="DIST_ID">56</SimpleData>
 		<SimpleData name="DIST_NAME">P56</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.128772514097</SimpleData>
@@ -6123,7 +5926,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">299</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">5827812.65090702</SimpleData>
 		<SimpleData name="DIST_ID">57</SimpleData>
 		<SimpleData name="DIST_NAME">P57</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0846272189221</SimpleData>
@@ -6154,7 +5956,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">360</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">6583887.21963124</SimpleData>
 		<SimpleData name="DIST_ID">58</SimpleData>
 		<SimpleData name="DIST_NAME">P58</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0790468894443</SimpleData>
@@ -6185,7 +5986,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">360</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">6583887.21963124</SimpleData>
 		<SimpleData name="DIST_ID">58</SimpleData>
 		<SimpleData name="DIST_NAME">P58</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0790468894443</SimpleData>
@@ -6216,7 +6016,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">211</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">6992948.88143878</SimpleData>
 		<SimpleData name="DIST_ID">59</SimpleData>
 		<SimpleData name="DIST_NAME">P59</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0468305929421</SimpleData>
@@ -6247,7 +6046,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">211</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">6992948.88143878</SimpleData>
 		<SimpleData name="DIST_ID">59</SimpleData>
 		<SimpleData name="DIST_NAME">P59</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0468305929421</SimpleData>
@@ -6278,7 +6076,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">391</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">6242781.42907935</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0953449842017</SimpleData>
@@ -6309,7 +6106,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">391</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">6242781.42907935</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0953449842017</SimpleData>
@@ -6340,7 +6136,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">391</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">6242781.42907935</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0953449842017</SimpleData>
@@ -6371,7 +6166,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">128</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">5301418.01150879</SimpleData>
 		<SimpleData name="DIST_ID">61</SimpleData>
 		<SimpleData name="DIST_NAME">P61</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0482202536389</SimpleData>
@@ -6402,7 +6196,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">128</SimpleData>
 		<SimpleData name="PercentIndependent">19</SimpleData>
-		<SimpleData name="PopDensity">5301418.01150879</SimpleData>
 		<SimpleData name="DIST_ID">61</SimpleData>
 		<SimpleData name="DIST_NAME">P61</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0482202536389</SimpleData>
@@ -6433,7 +6226,6 @@
 		<SimpleData name="PercentLibertarian">2</SimpleData>
 		<SimpleData name="IndependentVoters">12</SimpleData>
 		<SimpleData name="PercentIndependent">27</SimpleData>
-		<SimpleData name="PopDensity">5005646.99549973</SimpleData>
 		<SimpleData name="DIST_ID">62</SimpleData>
 		<SimpleData name="DIST_NAME">P62</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0150199949997</SimpleData>
@@ -6464,7 +6256,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">142</SimpleData>
 		<SimpleData name="PercentIndependent">26</SimpleData>
-		<SimpleData name="PopDensity">3941413.05865332</SimpleData>
 		<SimpleData name="DIST_ID">63</SimpleData>
 		<SimpleData name="DIST_NAME">P63</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0498959664137</SimpleData>
@@ -6495,7 +6286,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">142</SimpleData>
 		<SimpleData name="PercentIndependent">26</SimpleData>
-		<SimpleData name="PopDensity">3941413.05865332</SimpleData>
 		<SimpleData name="DIST_ID">63</SimpleData>
 		<SimpleData name="DIST_NAME">P63</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0498959664137</SimpleData>
@@ -6526,7 +6316,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">337</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">3207066.20467203</SimpleData>
 		<SimpleData name="DIST_ID">64</SimpleData>
 		<SimpleData name="DIST_NAME">P64</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0822716021157</SimpleData>
@@ -6557,7 +6346,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">337</SimpleData>
 		<SimpleData name="PercentIndependent">28</SimpleData>
-		<SimpleData name="PopDensity">3207066.20467203</SimpleData>
 		<SimpleData name="DIST_ID">64</SimpleData>
 		<SimpleData name="DIST_NAME">P64</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0822716021157</SimpleData>
@@ -6588,7 +6376,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">297</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">4101507.20395156</SimpleData>
 		<SimpleData name="DIST_ID">65</SimpleData>
 		<SimpleData name="DIST_NAME">P65</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.101897930159</SimpleData>
@@ -6619,7 +6406,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">297</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">4101507.20395156</SimpleData>
 		<SimpleData name="DIST_ID">65</SimpleData>
 		<SimpleData name="DIST_NAME">P65</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.101897930159</SimpleData>
@@ -6650,7 +6436,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">305</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">2564222.23224176</SimpleData>
 		<SimpleData name="DIST_ID">66</SimpleData>
 		<SimpleData name="DIST_NAME">P66</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.126667583525</SimpleData>
@@ -6681,7 +6466,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">305</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">2564222.23224176</SimpleData>
 		<SimpleData name="DIST_ID">66</SimpleData>
 		<SimpleData name="DIST_NAME">P66</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.126667583525</SimpleData>
@@ -6712,7 +6496,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">80</SimpleData>
 		<SimpleData name="PercentIndependent">29</SimpleData>
-		<SimpleData name="PopDensity">223750.04190927</SimpleData>
 		<SimpleData name="DIST_ID">67</SimpleData>
 		<SimpleData name="DIST_NAME">P67</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.167404384327</SimpleData>
@@ -6743,7 +6526,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">275</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">2753784.13466268</SimpleData>
 		<SimpleData name="DIST_ID">68</SimpleData>
 		<SimpleData name="DIST_NAME">P68</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0938472617981</SimpleData>
@@ -6774,7 +6556,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">275</SimpleData>
 		<SimpleData name="PercentIndependent">21</SimpleData>
-		<SimpleData name="PopDensity">2753784.13466268</SimpleData>
 		<SimpleData name="DIST_ID">68</SimpleData>
 		<SimpleData name="DIST_NAME">P68</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0938472617981</SimpleData>
@@ -6805,7 +6586,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">453</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">3248122.13314093</SimpleData>
 		<SimpleData name="DIST_ID">69</SimpleData>
 		<SimpleData name="DIST_NAME">P69</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.122837201462</SimpleData>
@@ -6836,7 +6616,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">396</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">9970624.84167365</SimpleData>
 		<SimpleData name="DIST_ID">70</SimpleData>
 		<SimpleData name="DIST_NAME">P70</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643591639638</SimpleData>
@@ -6867,7 +6646,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">294</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">3475953.2187907</SimpleData>
 		<SimpleData name="DIST_ID">71</SimpleData>
 		<SimpleData name="DIST_NAME">P71</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.093345171662</SimpleData>
@@ -6898,7 +6676,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">611</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">1071071.72727351</SimpleData>
 		<SimpleData name="DIST_ID">72</SimpleData>
 		<SimpleData name="DIST_NAME">P72</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.221814127648</SimpleData>
@@ -6929,7 +6706,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">269</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">629934.252999088</SimpleData>
 		<SimpleData name="DIST_ID">73</SimpleData>
 		<SimpleData name="DIST_NAME">P73</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.276847824567</SimpleData>
@@ -6960,7 +6736,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">108</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">664465.858276111</SimpleData>
 		<SimpleData name="DIST_ID">74</SimpleData>
 		<SimpleData name="DIST_NAME">P74</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.157846056434</SimpleData>
@@ -6991,7 +6766,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">48</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">290313.303938169</SimpleData>
 		<SimpleData name="DIST_ID">78</SimpleData>
 		<SimpleData name="DIST_NAME">P78</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.228894405759</SimpleData>
@@ -7022,7 +6796,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">119</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">182156.50168491</SimpleData>
 		<SimpleData name="DIST_ID">82</SimpleData>
 		<SimpleData name="DIST_NAME">P82</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.258721185353</SimpleData>
@@ -7053,7 +6826,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">326</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">584492.736468449</SimpleData>
 		<SimpleData name="DIST_ID">83</SimpleData>
 		<SimpleData name="DIST_NAME">P83</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.262299588435</SimpleData>
@@ -7084,7 +6856,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">65</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">213588.380139419</SimpleData>
 		<SimpleData name="DIST_ID">8</SimpleData>
 		<SimpleData name="DIST_NAME">P8</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.226797137321</SimpleData>
@@ -7115,7 +6886,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">199</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">6971631.12725969</SimpleData>
 		<SimpleData name="DIST_ID">50</SimpleData>
 		<SimpleData name="DIST_NAME">P50</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0451201928209</SimpleData>
@@ -7146,7 +6916,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">605</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">7059570.33244835</SimpleData>
 		<SimpleData name="DIST_ID">13</SimpleData>
 		<SimpleData name="DIST_NAME">P13</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0999523036592</SimpleData>
@@ -7177,7 +6946,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">248</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">5862841.40498069</SimpleData>
 		<SimpleData name="DIST_ID">15</SimpleData>
 		<SimpleData name="DIST_NAME">P15</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0649682650678</SimpleData>
@@ -7208,7 +6976,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">248</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">5862841.40498069</SimpleData>
 		<SimpleData name="DIST_ID">15</SimpleData>
 		<SimpleData name="DIST_NAME">P15</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0649682650678</SimpleData>
@@ -7239,7 +7006,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">269</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">593924.190217192</SimpleData>
 		<SimpleData name="DIST_ID">20</SimpleData>
 		<SimpleData name="DIST_NAME">P20</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.229952571411</SimpleData>
@@ -7270,7 +7036,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">199</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">5180901.37205492</SimpleData>
 		<SimpleData name="DIST_ID">22</SimpleData>
 		<SimpleData name="DIST_NAME">P22</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0763593857795</SimpleData>
@@ -7301,7 +7066,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">194</SimpleData>
 		<SimpleData name="PercentIndependent">20</SimpleData>
-		<SimpleData name="PopDensity">3878746.7822878</SimpleData>
 		<SimpleData name="DIST_ID">25</SimpleData>
 		<SimpleData name="DIST_NAME">P25</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.066211373873</SimpleData>
@@ -7332,7 +7096,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">229</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">5906769.8847022</SimpleData>
 		<SimpleData name="DIST_ID">26</SimpleData>
 		<SimpleData name="DIST_NAME">P26</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0760149825579</SimpleData>
@@ -7363,7 +7126,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">229</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">5906769.8847022</SimpleData>
 		<SimpleData name="DIST_ID">26</SimpleData>
 		<SimpleData name="DIST_NAME">P26</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0760149825579</SimpleData>
@@ -7394,7 +7156,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">189</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">11903971.1911256</SimpleData>
 		<SimpleData name="DIST_ID">27</SimpleData>
 		<SimpleData name="DIST_NAME">P27</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0475707463622</SimpleData>
@@ -7425,7 +7186,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">303</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">24072955.4415419</SimpleData>
 		<SimpleData name="DIST_ID">28</SimpleData>
 		<SimpleData name="DIST_NAME">P28</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0304072045607</SimpleData>
@@ -7456,7 +7216,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">303</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">24072955.4415419</SimpleData>
 		<SimpleData name="DIST_ID">28</SimpleData>
 		<SimpleData name="DIST_NAME">P28</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0304072045607</SimpleData>
@@ -7487,7 +7246,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">349</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">3252622.06994989</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.159518313642</SimpleData>
@@ -7518,7 +7276,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">349</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">3252622.06994989</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.159518313642</SimpleData>
@@ -7549,7 +7306,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">349</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">3252622.06994989</SimpleData>
 		<SimpleData name="DIST_ID">29</SimpleData>
 		<SimpleData name="DIST_NAME">P29</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.159518313642</SimpleData>
@@ -7580,7 +7336,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">397</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">2673651.81696051</SimpleData>
 		<SimpleData name="DIST_ID">32</SimpleData>
 		<SimpleData name="DIST_NAME">P32</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.129171381441</SimpleData>
@@ -7611,7 +7366,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">401</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">14012655.7461787</SimpleData>
 		<SimpleData name="DIST_ID">33</SimpleData>
 		<SimpleData name="DIST_NAME">P33</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0564501348147</SimpleData>
@@ -7642,7 +7396,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">401</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">14012655.7461787</SimpleData>
 		<SimpleData name="DIST_ID">33</SimpleData>
 		<SimpleData name="DIST_NAME">P33</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0564501348147</SimpleData>
@@ -7673,7 +7426,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">332</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">7207783.55740658</SimpleData>
 		<SimpleData name="DIST_ID">34</SimpleData>
 		<SimpleData name="DIST_NAME">P34</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0941778339101</SimpleData>
@@ -7704,7 +7456,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">332</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">7207783.55740658</SimpleData>
 		<SimpleData name="DIST_ID">34</SimpleData>
 		<SimpleData name="DIST_NAME">P34</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0941778339101</SimpleData>
@@ -7735,7 +7486,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">390</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">9556214.76414211</SimpleData>
 		<SimpleData name="DIST_ID">35</SimpleData>
 		<SimpleData name="DIST_NAME">P35</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0646383697091</SimpleData>
@@ -7766,7 +7516,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">390</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">9556214.76414211</SimpleData>
 		<SimpleData name="DIST_ID">35</SimpleData>
 		<SimpleData name="DIST_NAME">P35</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0646383697091</SimpleData>
@@ -7797,7 +7546,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">409</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">10117462.2178091</SimpleData>
 		<SimpleData name="DIST_ID">36</SimpleData>
 		<SimpleData name="DIST_NAME">P36</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0738408136852</SimpleData>
@@ -7828,7 +7576,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">409</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">10117462.2178091</SimpleData>
 		<SimpleData name="DIST_ID">36</SimpleData>
 		<SimpleData name="DIST_NAME">P36</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0738408136852</SimpleData>
@@ -7859,7 +7606,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">379</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">13676677.6432986</SimpleData>
 		<SimpleData name="DIST_ID">37</SimpleData>
 		<SimpleData name="DIST_NAME">P37</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0608555145847</SimpleData>
@@ -7890,7 +7636,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">300</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">6587717.23530195</SimpleData>
 		<SimpleData name="DIST_ID">38</SimpleData>
 		<SimpleData name="DIST_NAME">P38</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0728613025056</SimpleData>
@@ -7921,7 +7666,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">213</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">1467445.80972966</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.172839293924</SimpleData>
@@ -7952,7 +7696,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">590</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">3615714.20214735</SimpleData>
 		<SimpleData name="DIST_ID">40</SimpleData>
 		<SimpleData name="DIST_NAME">P40</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.172557237008</SimpleData>
@@ -7983,7 +7726,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">181</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">4326015.51141817</SimpleData>
 		<SimpleData name="DIST_ID">41</SimpleData>
 		<SimpleData name="DIST_NAME">P41</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643601857777</SimpleData>
@@ -8014,7 +7756,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">455</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">11121854.5136309</SimpleData>
 		<SimpleData name="DIST_ID">43</SimpleData>
 		<SimpleData name="DIST_NAME">P43</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.064961306625</SimpleData>
@@ -8045,7 +7786,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">215</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">5123920.07668233</SimpleData>
 		<SimpleData name="DIST_ID">44</SimpleData>
 		<SimpleData name="DIST_NAME">P44</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0660250318191</SimpleData>
@@ -8076,7 +7816,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">215</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">5123920.07668233</SimpleData>
 		<SimpleData name="DIST_ID">44</SimpleData>
 		<SimpleData name="DIST_NAME">P44</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0660250318191</SimpleData>
@@ -8107,7 +7846,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">219</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">4902536.14491051</SimpleData>
 		<SimpleData name="DIST_ID">45</SimpleData>
 		<SimpleData name="DIST_NAME">P45</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0631185739239</SimpleData>
@@ -8138,7 +7876,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">390</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">8494555.45703384</SimpleData>
 		<SimpleData name="DIST_ID">46</SimpleData>
 		<SimpleData name="DIST_NAME">P46</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0646519826872</SimpleData>
@@ -8169,7 +7906,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">390</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">8494555.45703384</SimpleData>
 		<SimpleData name="DIST_ID">46</SimpleData>
 		<SimpleData name="DIST_NAME">P46</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0646519826872</SimpleData>
@@ -8200,7 +7936,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">290</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">3884471.28192648</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0969233791618</SimpleData>
@@ -8231,7 +7966,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">290</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">3884471.28192648</SimpleData>
 		<SimpleData name="DIST_ID">47</SimpleData>
 		<SimpleData name="DIST_NAME">P47</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0969233791618</SimpleData>
@@ -8262,7 +7996,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">75</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">409381.776808993</SimpleData>
 		<SimpleData name="DIST_ID">51</SimpleData>
 		<SimpleData name="DIST_NAME">P51</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.152120600754</SimpleData>
@@ -8293,7 +8026,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">75</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">409381.776808993</SimpleData>
 		<SimpleData name="DIST_ID">51</SimpleData>
 		<SimpleData name="DIST_NAME">P51</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.152120600754</SimpleData>
@@ -8324,7 +8056,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">262</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">4484415.32705719</SimpleData>
 		<SimpleData name="DIST_ID">56</SimpleData>
 		<SimpleData name="DIST_NAME">P56</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.143912348539</SimpleData>
@@ -8355,7 +8086,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">89</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">1954310.46530222</SimpleData>
 		<SimpleData name="DIST_ID">57</SimpleData>
 		<SimpleData name="DIST_NAME">P57</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0647186189639</SimpleData>
@@ -8386,7 +8116,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">435</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">12431520.9943945</SimpleData>
 		<SimpleData name="DIST_ID">58</SimpleData>
 		<SimpleData name="DIST_NAME">P58</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0612395472087</SimpleData>
@@ -8417,7 +8146,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">105</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">9943724.57321286</SimpleData>
 		<SimpleData name="DIST_ID">59</SimpleData>
 		<SimpleData name="DIST_NAME">P59</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0398177501205</SimpleData>
@@ -8448,7 +8176,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">105</SimpleData>
 		<SimpleData name="PercentIndependent">12</SimpleData>
-		<SimpleData name="PopDensity">9943724.57321286</SimpleData>
 		<SimpleData name="DIST_ID">59</SimpleData>
 		<SimpleData name="DIST_NAME">P59</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0398177501205</SimpleData>
@@ -8479,7 +8206,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">192</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">7418639.2534051</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0542247569921</SimpleData>
@@ -8510,7 +8236,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">192</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">7418639.2534051</SimpleData>
 		<SimpleData name="DIST_ID">60</SimpleData>
 		<SimpleData name="DIST_NAME">P60</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0542247569921</SimpleData>
@@ -8541,7 +8266,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">140</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">4860580.46266012</SimpleData>
 		<SimpleData name="DIST_ID">62</SimpleData>
 		<SimpleData name="DIST_NAME">P62</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0643454755609</SimpleData>
@@ -8572,7 +8296,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">428</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">9511714.73192111</SimpleData>
 		<SimpleData name="DIST_ID">65</SimpleData>
 		<SimpleData name="DIST_NAME">P65</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.087844857229</SimpleData>
@@ -8603,7 +8326,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">428</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">9511714.73192111</SimpleData>
 		<SimpleData name="DIST_ID">65</SimpleData>
 		<SimpleData name="DIST_NAME">P65</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.087844857229</SimpleData>
@@ -8634,7 +8356,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">523</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">12764882.5798683</SimpleData>
 		<SimpleData name="DIST_ID">66</SimpleData>
 		<SimpleData name="DIST_NAME">P66</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0637986884904</SimpleData>
@@ -8665,7 +8386,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">230</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">8701426.14978644</SimpleData>
 		<SimpleData name="DIST_ID">67</SimpleData>
 		<SimpleData name="DIST_NAME">P67</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645672670078</SimpleData>
@@ -8696,7 +8416,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">230</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">8701426.14978644</SimpleData>
 		<SimpleData name="DIST_ID">67</SimpleData>
 		<SimpleData name="DIST_NAME">P67</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0645672670078</SimpleData>
@@ -8727,7 +8446,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">246</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">6829713.77604794</SimpleData>
 		<SimpleData name="DIST_ID">68</SimpleData>
 		<SimpleData name="DIST_NAME">P68</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0640257889907</SimpleData>
@@ -8758,7 +8476,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">319</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">9892295.40082341</SimpleData>
 		<SimpleData name="DIST_ID">69</SimpleData>
 		<SimpleData name="DIST_NAME">P69</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0618738395515</SimpleData>
@@ -8789,7 +8506,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">319</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">9892295.40082341</SimpleData>
 		<SimpleData name="DIST_ID">69</SimpleData>
 		<SimpleData name="DIST_NAME">P69</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0618738395515</SimpleData>
@@ -8820,7 +8536,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">74</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">2803893.83695406</SimpleData>
 		<SimpleData name="DIST_ID">70</SimpleData>
 		<SimpleData name="DIST_NAME">P70</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0690377062422</SimpleData>
@@ -8851,7 +8566,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">223</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">6531596.2466552</SimpleData>
 		<SimpleData name="DIST_ID">71</SimpleData>
 		<SimpleData name="DIST_NAME">P71</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0640465059005</SimpleData>
@@ -8882,7 +8596,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">489</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">12082418.5283039</SimpleData>
 		<SimpleData name="DIST_ID">42</SimpleData>
 		<SimpleData name="DIST_NAME">P42</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0647432909427</SimpleData>
@@ -8913,7 +8626,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">127</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">4848926.19183582</SimpleData>
 		<SimpleData name="DIST_ID">61</SimpleData>
 		<SimpleData name="DIST_NAME">P61</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0811009626347</SimpleData>
@@ -8944,7 +8656,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">127</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">4848926.19183582</SimpleData>
 		<SimpleData name="DIST_ID">61</SimpleData>
 		<SimpleData name="DIST_NAME">P61</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0811009626347</SimpleData>
@@ -8975,7 +8686,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">145</SimpleData>
 		<SimpleData name="PercentIndependent">9</SimpleData>
-		<SimpleData name="PopDensity">5440141.80495601</SimpleData>
 		<SimpleData name="DIST_ID">72</SimpleData>
 		<SimpleData name="DIST_NAME">P72</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0666242406521</SimpleData>
@@ -9006,7 +8716,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">252</SimpleData>
 		<SimpleData name="PercentIndependent">11</SimpleData>
-		<SimpleData name="PopDensity">9128380.00834739</SimpleData>
 		<SimpleData name="DIST_ID">73</SimpleData>
 		<SimpleData name="DIST_NAME">P73</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0667697315152</SimpleData>
@@ -9037,7 +8746,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">191</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">11596026.7873631</SimpleData>
 		<SimpleData name="DIST_ID">74</SimpleData>
 		<SimpleData name="DIST_NAME">P74</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.046517542105</SimpleData>
@@ -9068,7 +8776,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">191</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">11596026.7873631</SimpleData>
 		<SimpleData name="DIST_ID">74</SimpleData>
 		<SimpleData name="DIST_NAME">P74</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.046517542105</SimpleData>
@@ -9099,7 +8806,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">277</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">4281186.88642318</SimpleData>
 		<SimpleData name="DIST_ID">75</SimpleData>
 		<SimpleData name="DIST_NAME">P75</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0792432817768</SimpleData>
@@ -9130,7 +8836,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">277</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">4281186.88642318</SimpleData>
 		<SimpleData name="DIST_ID">75</SimpleData>
 		<SimpleData name="DIST_NAME">P75</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0792432817768</SimpleData>
@@ -9161,7 +8866,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">277</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">4281186.88642318</SimpleData>
 		<SimpleData name="DIST_ID">75</SimpleData>
 		<SimpleData name="DIST_NAME">P75</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0792432817768</SimpleData>
@@ -9192,7 +8896,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">346</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">1872762.19686602</SimpleData>
 		<SimpleData name="DIST_ID">76</SimpleData>
 		<SimpleData name="DIST_NAME">P76</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.129089938658</SimpleData>
@@ -9223,7 +8926,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">346</SimpleData>
 		<SimpleData name="PercentIndependent">18</SimpleData>
-		<SimpleData name="PopDensity">1872762.19686602</SimpleData>
 		<SimpleData name="DIST_ID">76</SimpleData>
 		<SimpleData name="DIST_NAME">P76</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.129089938658</SimpleData>
@@ -9254,7 +8956,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">403</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">3245499.87956345</SimpleData>
 		<SimpleData name="DIST_ID">77</SimpleData>
 		<SimpleData name="DIST_NAME">P77</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.115061230787</SimpleData>
@@ -9285,7 +8986,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">403</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">3245499.87956345</SimpleData>
 		<SimpleData name="DIST_ID">77</SimpleData>
 		<SimpleData name="DIST_NAME">P77</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.115061230787</SimpleData>
@@ -9316,7 +9016,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">403</SimpleData>
 		<SimpleData name="PercentIndependent">17</SimpleData>
-		<SimpleData name="PopDensity">3245499.87956345</SimpleData>
 		<SimpleData name="DIST_ID">77</SimpleData>
 		<SimpleData name="DIST_NAME">P77</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.115061230787</SimpleData>
@@ -9347,7 +9046,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">34</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">318260.885208609</SimpleData>
 		<SimpleData name="DIST_ID">78</SimpleData>
 		<SimpleData name="DIST_NAME">P78</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.111472137381</SimpleData>
@@ -9378,7 +9076,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">96</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">1148057.63856636</SimpleData>
 		<SimpleData name="DIST_ID">79</SimpleData>
 		<SimpleData name="DIST_NAME">P79</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.104857835537</SimpleData>
@@ -9409,7 +9106,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">39</SimpleData>
 		<SimpleData name="PercentIndependent">31</SimpleData>
-		<SimpleData name="PopDensity">2388318.67941383</SimpleData>
 		<SimpleData name="DIST_ID">80</SimpleData>
 		<SimpleData name="DIST_NAME">P80</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0387678199254</SimpleData>
@@ -9440,7 +9136,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">62</SimpleData>
 		<SimpleData name="PercentIndependent">13</SimpleData>
-		<SimpleData name="PopDensity">372819.676021347</SimpleData>
 		<SimpleData name="DIST_ID">21</SimpleData>
 		<SimpleData name="DIST_NAME">P21</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.231359761694</SimpleData>
@@ -9471,7 +9166,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">1</SimpleData>
 		<SimpleData name="PercentIndependent">25</SimpleData>
-		<SimpleData name="PopDensity">11172.2495040234</SimpleData>
 		<SimpleData name="DIST_ID">38</SimpleData>
 		<SimpleData name="DIST_NAME">P38</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.1518290534</SimpleData>
@@ -9502,7 +9196,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">330</SimpleData>
 		<SimpleData name="PercentIndependent">45</SimpleData>
-		<SimpleData name="PopDensity">1349185.75753353</SimpleData>
 		<SimpleData name="DIST_ID">89</SimpleData>
 		<SimpleData name="DIST_NAME">P89</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.137471599268</SimpleData>
@@ -9533,7 +9226,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">127</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">1392573.87397679</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0915872793603</SimpleData>
@@ -9564,7 +9256,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">127</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">1392573.87397679</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0915872793603</SimpleData>
@@ -9595,7 +9286,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">127</SimpleData>
 		<SimpleData name="PercentIndependent">22</SimpleData>
-		<SimpleData name="PopDensity">1392573.87397679</SimpleData>
 		<SimpleData name="DIST_ID">39</SimpleData>
 		<SimpleData name="DIST_NAME">P39</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0915872793603</SimpleData>
@@ -9626,7 +9316,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">334</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">3685668.92446658</SimpleData>
 		<SimpleData name="DIST_ID">90</SimpleData>
 		<SimpleData name="DIST_NAME">P90</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.109875517032</SimpleData>
@@ -9657,7 +9346,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">334</SimpleData>
 		<SimpleData name="PercentIndependent">23</SimpleData>
-		<SimpleData name="PopDensity">3685668.92446658</SimpleData>
 		<SimpleData name="DIST_ID">90</SimpleData>
 		<SimpleData name="DIST_NAME">P90</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.109875517032</SimpleData>
@@ -9688,7 +9376,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">7</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">7522.35553297779</SimpleData>
 		<SimpleData name="DIST_ID">17</SimpleData>
 		<SimpleData name="DIST_NAME">P17</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.428712636227</SimpleData>
@@ -9719,7 +9406,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">14</SimpleData>
 		<SimpleData name="PercentIndependent">10</SimpleData>
-		<SimpleData name="PopDensity">1028391.71378051</SimpleData>
 		<SimpleData name="DIST_ID">64</SimpleData>
 		<SimpleData name="DIST_NAME">P64</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0529300597166</SimpleData>
@@ -9750,7 +9436,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">46</SimpleData>
 		<SimpleData name="PercentIndependent">14</SimpleData>
-		<SimpleData name="PopDensity">88831.8525986078</SimpleData>
 		<SimpleData name="DIST_ID">31</SimpleData>
 		<SimpleData name="DIST_NAME">P31</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.275288054775</SimpleData>
@@ -9781,7 +9466,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">323</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">5713985.61604051</SimpleData>
 		<SimpleData name="DIST_ID">42</SimpleData>
 		<SimpleData name="DIST_NAME">P42</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0790868683502</SimpleData>
@@ -9812,7 +9496,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">323</SimpleData>
 		<SimpleData name="PercentIndependent">16</SimpleData>
-		<SimpleData name="PopDensity">5713985.61604051</SimpleData>
 		<SimpleData name="DIST_ID">42</SimpleData>
 		<SimpleData name="DIST_NAME">P42</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.0790868683502</SimpleData>
@@ -9843,7 +9526,6 @@
 		<SimpleData name="PercentLibertarian">0</SimpleData>
 		<SimpleData name="IndependentVoters">7</SimpleData>
 		<SimpleData name="PercentIndependent">15</SimpleData>
-		<SimpleData name="PopDensity">11448.6948962354</SimpleData>
 		<SimpleData name="DIST_ID">15</SimpleData>
 		<SimpleData name="DIST_NAME">P15</SimpleData>
 		<SimpleData name="SHAPE_Leng">0.264857264975</SimpleData>

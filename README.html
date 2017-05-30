@@ -125,12 +125,17 @@ $(document).ready(function () {
 <h3>Purpose</h3>
 <p>To provide basic voter analysis of the voting precincts in Oklahoma City.</p>
 </div>
+<div id="summary" class="section level3">
+<h3>Summary</h3>
+<p>This project is being developed using the R language, an SQL database, and ArcView. Although much data is supplied, the user is required to obtain certain large datasets on their own. Once the data is acquired, most of the processing may be done using the ./src/main.R script.</p>
+</div>
 <div id="steps-to-reproduce-the-research" class="section level3">
 <h3>Steps to Reproduce the Research</h3>
-<p>Caveat: Unfortunately this process is not fully automated, however except for large data sets (which cannot be published to GitHub), all of the intermediate data is provided in this repo. This means that after the user clones this repository, then only a few additional steps will be necessary to reproduce the research.</p>
+<p>Caveat: Unfortunately this process is not fully automated. See details in the Summary section above.</p>
 <ol style="list-style-type: decimal">
-<li>Set up SQL Database DSN
+<li>Set up SQL Database
 <ul>
+<li>Create a database named VotersOKC, and run the ./sql/Build-VotersDB.sql script.</li>
 <li>Create an ODBC Data Source named VotersMSSQL (to use different name, set the sql_dsn variable in main.R). Instructions for setting up ODBC Data Sources may be found in Appendix A of <a href="docs/RODBC.pdf">./docs/RODBC.pdf</a></li>
 </ul></li>
 <li>Download data for registered voters
@@ -142,22 +147,22 @@ $(document).ready(function () {
 <ul>
 <li>Precinct-level voting results may be found <a href="https://www.ok.gov/elections/Election_Info/Election_Results/">here</a>. These files were stored in the voting-results subdirectory.</li>
 </ul></li>
-<li>Set up ArcView Maps
+<li>Set up ArcMap Maps
 <ul>
-<li>./output/arcview-maps/Basic-Map.mxd</li>
-<li>./output/arcview-maps/Census-Map.mxd</li>
+<li>These maps are important because this project currently relies on ArcMap’s geoprocessing functionality. If time permits, this will be automatic with python scripts that work with the ArcMap code directly.</li>
+<li>Area calculations are needed for statistical purposes, so a Projected Coordinate System is necessary (NAD_1983_StatePlane_Oklahoma_North_FIPS_3501_Feet). The CalculateGeometry function on ArcMap was used to produce a field called SquareFt on several critical shapefiles.</li>
 </ul></li>
-<li>An Oklahoma City Voting Precinct Shapefile and KML file must be created for reporting
+<li>An Oklahoma City Voting Precinct Shapefiles and KML files must be created for reporting
 <ul>
 <li>Voting Precinct GIS Shapefiles were obtained <a href="http://csa.ou.edu/redistricting/">here</a>. The following counties are included in OKC: Canadian, Cleveland, Oklahoma, and Pottawatomie counties.</li>
 <li>The boundaries of the 8 Wards in OKC were downloaded as a KMZ file from <a href="https://data.okc.gov/portal/desktop/page/datasets?view=download&amp;datasetname=City%20Council%20Wards">here</a> and then unzipped into a KML file using 7zip.</li>
-<li><a href="src/create-precinct-shapefile.R">create-precinct-shapefile.R</a> was used to build SHP and KML files delineating the 224 precincts of OKC.</li>
 </ul></li>
 <li>Download census data from the federal government
 <ul>
 <li>2011-2015 Detailed Tables for Oklahoma were downloaded from <a href="https://www.census.gov/geo/maps-data/data/tiger-data.html">here</a>, extracted, and stored in ./data/large-data/census-data</li>
-<li>The statewide census shapefile was interected with the OKC precinct shapefile using ArcView. Additionally, area was calcuated</li>
-<li>The data is in ESRI GDB format, and was opened using ArcView, and many data tables were exported into the ./output/census-data folder.</li>
+<li>The statewide census shapefile was intersected with the OKC precinct shapefile using ArcView. Additionally, area was calcuated</li>
+<li>The data is in ESRI GDB format, and was opened using ArcMap, and many data tables were exported into the ./output/census-data folder.</li>
+<li>Square feet area was calculated for the census tracts using ArcMap, and an intersection was done with the OKC Precincts shapefile. Once again, square feet area was calculated for the intersected shapefile. The challenge will be to convert U.S. census data from a census tract domain to an OKC voter precinct domain.</li>
 </ul></li>
 </ol>
 </div>
